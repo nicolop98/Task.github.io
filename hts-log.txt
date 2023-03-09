@@ -1,0 +1,347 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Mar 2023 18:21:18 at https://www.classcentral.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*[name].https://www.classcentral.com//*
+(winhttrack -qir2%e2C2t%Pns2u1%s%uN0%I0p3DaK0c2H0%kf2A25000%c0.1%f0#f -F "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0" -%F  -%l "en, *" https://www.classcentral.com/ -O1 "C:\Users\nicolas\Desktop\prueba\prueba" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*[name].https://www.classcentral.com//* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:49:45	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+03:49:45	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+03:51:56	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+03:51:56	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+03:58:41	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+03:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+03:59:41	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+03:59:52	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+04:00:12	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+04:00:23	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+04:00:42	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+04:00:53	Warning: 	Link https://www.classcentral.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+04:01:33	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/images/promobar/celebrate.svg
+04:01:53	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subjects4658.html
+04:02:04	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/cs4658.html
+04:02:24	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/csc2cc.svg
+04:02:35	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f7bda83986e6fd97.svg
+04:02:55	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/health4658.html
+04:03:05	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/healthe1dd.svg
+04:03:25	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/maths4658.html
+04:03:36	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/maths3e32.svg
+04:05:08	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/business4658.html
+04:05:39	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/business3478.svg
+04:08:12	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/humanities4658.html
+04:08:12	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/humanitiesc639.svg
+04:08:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/engineering4658.html
+04:08:43	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/engineering48f7.svg
+04:09:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/science4658.html
+04:10:15	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/sciencedd7d.svg
+04:11:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/education4658.html
+04:11:47	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/educationd205.svg
+04:15:32	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/social-sciences4658.html
+04:15:52	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/social-sciences0f8d.svg
+04:17:03	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/art-and-design4658.html
+04:18:14	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/art-and-designf44b.svg
+04:22:10	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/data-science4658.html
+04:22:20	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/data-sciencebbd2.svg
+04:22:40	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/programming-and-software-development4658.html
+04:22:51	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/programming-and-software-development5d8b.svg
+04:23:11	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/personal-development4658.html
+04:23:21	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/personal-development3700.svg
+04:25:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/infosec4658.html
+04:25:54	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/infosec43f4.svg
+04:26:15	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F9c1a1ba8adbd.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=fa0301aa9ae917acf5eb02965010dd6c (from https://www.classcentral.com/subject/infosec)
+04:26:25	Warning: 	Warning: store text/css without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/css/frontend.min2072.css
+04:26:45	Warning: 	Warning: store text/css without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min2072.css
+04:26:56	Warning: 	Warning: store text/css without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/select2/select2.min080f.css
+04:27:16	Error: 	"Forbidden" (403) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+04:27:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/safari-pinned-tab.svg
+04:27:46	Warning: 	Warning: store text/css without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/webpack/cc-style.1faac0f8c55193cb997a.css
+04:28:17	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/cs.svg
+04:28:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/business.svg
+04:28:38	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/humanities.svg
+04:28:48	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/data-science.svg
+04:28:58	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/personal-development.svg
+04:29:08	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/art-and-design.svg
+04:30:05	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71214
+04:30:05	Warning: 	File has moved from https://www.classcentral.com/report/?p=71214 to https://www.classcentral.com/report/most-popular-online-courses/
+04:30:05	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index7b9d.html
+04:30:26	Warning: 	Note: due to https://secure.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+04:30:37	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77094
+04:30:37	Warning: 	File has moved from https://www.classcentral.com/report/?p=77094 to https://www.classcentral.com/report/best-free-online-courses-2022/
+04:30:37	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index4928.html
+04:30:47	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73773
+04:30:47	Warning: 	File has moved from https://www.classcentral.com/report/?p=73773 to https://www.classcentral.com/report/best-free-online-courses-2021/
+04:30:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexacb4.html
+04:31:16	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77063
+04:31:16	Warning: 	File has moved from https://www.classcentral.com/report/?p=77063 to https://www.classcentral.com/report/most-popular-courses-2022/
+04:31:16	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index1a28.html
+04:31:36	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73299
+04:31:36	Warning: 	File has moved from https://www.classcentral.com/report/?p=73299 to https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+04:31:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexc39c.html
+04:32:08	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=66895
+04:32:08	Warning: 	File has moved from https://www.classcentral.com/report/?p=66895 to https://www.classcentral.com/report/coursera-free-online-courses/
+04:32:08	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index5f7b.html
+04:32:18	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74608
+04:32:18	Warning: 	File has moved from https://www.classcentral.com/report/?p=74608 to https://www.classcentral.com/report/free-certificates/
+04:32:18	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index4541.html
+04:32:28	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74324
+04:32:28	Warning: 	File has moved from https://www.classcentral.com/report/?p=74324 to https://www.classcentral.com/report/free-google-certifications/
+04:32:28	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index5cd6.html
+04:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/mooc-course-report/march-2023.html
+04:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/starting-this-month4658.html
+04:33:45	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/new-online-courses/february-20234658.html
+04:33:55	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85347
+04:33:55	Warning: 	File has moved from https://www.classcentral.com/report/?p=85347 to https://www.classcentral.com/report/most-popular-march-2023/
+04:33:55	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexa750.html
+04:33:55	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/ai4658.html
+04:40:00	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/algorithms-and-data-structures4658.html
+04:48:41	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/internet-of-things4658.html
+04:53:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/information-technology4658.html
+04:57:20	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/computer-networking4658.html
+05:01:56	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/machine-learning4658.html
+05:06:55	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/devops4658.html
+05:11:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/deep-learning4658.html
+05:12:03	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/cryptography4658.html
+05:14:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/quantum-computing4658.html
+05:18:10	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/78ff14b675e4300a.svg
+05:18:20	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/blockchain4658.html
+05:28:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/nutrition-and-wellness4658.html
+05:30:10	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/disease-and-disorders4658.html
+05:32:13	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/public-health4658.html
+05:32:31	Error: 	Exit requested by shell or user
+05:32:34	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fd9c6f660b564.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=1e526f2a28877c92ef50523e3a2be804 (from https://www.classcentral.com/subject/public-health)
+05:32:34	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/health-care4658.html
+05:32:34	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/nursing4658.html
+05:32:34	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/anatomy4658.html
+05:32:34	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/cme4658.html
+05:32:34	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/statistics4658.html
+05:32:34	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/foundations-of-mathematics4658.html
+05:32:34	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/calculus4658.html
+05:32:35	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/trigonometry4658.html
+05:32:35	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/geometry4658.html
+05:32:35	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/algebra4658.html
+05:32:35	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/precalculus4658.html
+05:32:35	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/management-and-leadership4658.html
+05:32:35	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/finance4658.html
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/entrepreneurship4658.html
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/marketing4658.html
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/strategic-management4658.html
+05:32:36	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff9c1fd5b33eb.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=c0c691744e99fa3afd1a47507cae53c4 (from https://www.classcentral.com/subject/strategic-management)
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/industry-specific4658.html
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/business-intelligence4658.html
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/accounting4658.html
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/human-resources4658.html
+05:32:36	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/project-management4658.html
+05:32:37	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/sales4658.html
+05:32:37	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/design-thinking4658.html
+05:32:37	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/business-software4658.html
+05:32:37	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/risk-management4658.html
+05:32:37	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/customer-service4658.html
+05:32:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/innovation4658.html
+05:32:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/operations-management4658.html
+05:32:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/history4658.html
+05:32:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/literature4658.html
+05:32:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/language-learning4658.html
+05:32:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/grammar-writing4658.html
+05:32:38	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/philosophy4658.html
+05:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/religion4658.html
+05:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/esl4658.html
+05:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/culture4658.html
+05:32:39	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F3969735f8334.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=583f7c329466ff46a208b8c821c7845e (from https://www.classcentral.com/subject/culture)
+05:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/sports4658.html
+05:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/journalism4658.html
+05:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/ethics4658.html
+05:32:39	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/linguistics4658.html
+05:32:40	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/food4658.html
+05:32:40	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/reading4658.html
+05:32:40	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/electrical-engineering4658.html
+05:32:40	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/mechanical-engineering4658.html
+05:32:40	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/civil-engineering4658.html
+05:32:40	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/robotics4658.html
+05:32:41	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/nanotechnology4658.html
+05:32:41	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/gis4658.html
+05:32:41	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/manufacturing4658.html
+05:32:41	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F95fa7d7f981d.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=909c2baf269e110e016437c3bb83714d (from https://www.classcentral.com/subject/manufacturing)
+05:32:41	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/bim4658.html
+05:32:41	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/cad4658.html
+05:32:42	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/chemical-engineering4658.html
+05:32:42	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/energy-systems4658.html
+05:32:42	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fe988eccaf953.png?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=cf6fe3f68c3f3c2784f64dbfe12c4e77 (from https://www.classcentral.com/subject/energy-systems)
+05:32:42	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/aerospace-engineering4658.html
+05:32:42	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/chemistry4658.html
+05:32:42	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/physics4658.html
+05:32:42	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/environmental-science4658.html
+05:32:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/astronomy4658.html
+05:32:43	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fa921d43d68ec.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=b012e7c58af064fa45183912ba9c2909 (from https://www.classcentral.com/subject/astronomy)
+05:32:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/biology4658.html
+05:32:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/agriculture4658.html
+05:32:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/materials-science4658.html
+05:32:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/earth-science4658.html
+05:32:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/applied-science4658.html
+05:32:43	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/k124658.html
+05:32:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/higher-education4658.html
+05:32:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/stem4658.html
+05:32:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/teacher-development4658.html
+05:32:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/course-development4658.html
+05:32:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/online-education4658.html
+05:32:44	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/test-prep4658.html
+05:32:45	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/sociology4658.html
+05:32:45	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/economics4658.html
+05:32:45	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/psychology4658.html
+05:32:45	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/anthropology4658.html
+05:32:45	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/political-science4658.html
+05:32:45	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/law4658.html
+05:32:46	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/urban-planning4658.html
+05:32:46	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/human-rights4658.html
+05:32:46	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/sustainability4658.html
+05:32:46	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/sustainabilityb76f.svg
+05:32:46	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/governance4658.html
+05:32:46	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/childhood-development4658.html
+05:32:46	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/music4658.html
+05:32:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/digital-media4658.html
+05:32:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/visual-arts4658.html
+05:32:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/design-and-creativity4658.html
+05:32:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/bioinformatics4658.html
+05:32:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/big-data4658.html
+05:32:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/data-mining4658.html
+05:32:47	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/data-analysis4658.html
+05:32:48	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/data-visualization4658.html
+05:32:48	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/mobile-development4658.html
+05:32:48	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/web-development4658.html
+05:32:48	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/databases4658.html
+05:32:48	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/game-development4658.html
+05:32:48	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/programming-languages4658.html
+05:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/software-development4658.html
+05:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/cloud-computing4658.html
+05:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/communication-skills4658.html
+05:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/career-development4658.html
+05:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/self-improvement4658.html
+05:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/presentation-skills4658.html
+05:32:49	Warning: 	Warning: store image/svg+xml without scan: C:/Users/nicolas/Desktop/prueba/prueba/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/bbd8d0c44792baa1.svg
+05:32:49	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/cybersecurity4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/network-security4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/ethical-hacking4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/digital-forensics4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/pentesting4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/malware-analysis4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/threat-intelligence4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/infosec-certifications4658.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85491
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85491 to https://www.classcentral.com/report/coursera-google-new-deal/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexc9a6.html
+05:32:50	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+05:32:50	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/wp-json/wp/v2/users/0 (from https://www.classcentral.com/report/author/dhawal/)
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85614
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85614 to https://www.classcentral.com/report/futurelearn-price-hike-ceo-exit/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexe891.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85587
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85587 to https://www.classcentral.com/report/best-css-layout-courses/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index2250.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85564
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85564 to https://www.classcentral.com/report/masterclass-layoffs-round-three/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index8ee0.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85533
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85533 to https://www.classcentral.com/report/review-academic-writing-made-easy/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index54bd.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/subject/digital-skills4658.html
+05:32:50	Warning: 	File not added due to mirror cancel: https://ccweb.imgix.net/robots.txt
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/stanford4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/mit4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/institution/google4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/institution/amazon4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/category/best-courses/page/2/index.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84167
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=84167 to https://www.classcentral.com/report/online-learning-deals/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index5a97.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/harvard4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/iit-kharagpur4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/rice4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/iitm4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/columbia4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/edinburgh4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/purdue4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/penn4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/duke4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/umich4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/coursera4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/edx4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/futurelearn4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/udemy4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/swayam4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/linkedin-learning4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/skillshare4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/institution/microsoft4658.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/institution/ibm4658.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72261
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=72261 to https://www.classcentral.com/report/most-cited-mooc-research/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index04e8.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84060
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=84060 to https://www.classcentral.com/report/emoocs-2023-cfp/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexd15c.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85377
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85377 to https://www.classcentral.com/report/udemy-layoffs/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index5a49.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71534
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=71534 to https://www.classcentral.com/report/harvard-cs50-guide/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index5ea4.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=69630
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=69630 to https://www.classcentral.com/report/chinese-mooc-platforms/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index7475.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85512
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85512 to https://www.classcentral.com/report/best-digital-art-courses/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexa33f.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85494
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85494 to https://www.classcentral.com/report/best-elm-courses/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index625b.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85445
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85445 to https://www.classcentral.com/report/best-resume-writing-courses/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index6d69.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85425
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=85425 to https://www.classcentral.com/report/best-ocaml-courses/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexd07d.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73844
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=73844 to https://www.classcentral.com/report/udemy-top-courses/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index4337.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72109
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=72109 to https://www.classcentral.com/report/india-online-degrees/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index702e.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=65630
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=65630 to https://www.classcentral.com/report/mooc-based-masters-degree/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index127b.html
+05:32:50	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70569
+05:32:50	Warning: 	File has moved from https://www.classcentral.com/report/?p=70569 to https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index3575.html
+05:32:50	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/provider/udacity4658.html
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/university/gatech4658.html
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/institution/linuxfoundation4658.html
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/institution/salesforce4658.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83775
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=83775 to https://www.classcentral.com/report/most-popular-courses-2023/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index0ebe.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76388
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=76388 to https://www.classcentral.com/report/coursera-top-courses/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexfbe4.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76369
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=76369 to https://www.classcentral.com/report/edx-top-courses/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index4aa4.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84384
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=84384 to https://www.classcentral.com/report/2022-year-in-review/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index4821.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83561
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=83561 to https://www.classcentral.com/report/class-central-ddos-attack/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index3476.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70103
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=70103 to https://www.classcentral.com/report/cs50-free-certificate/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index70a0.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=67197
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=67197 to https://www.classcentral.com/report/open-university-insiders-perspective/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index6b6e.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72028
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=72028 to https://www.classcentral.com/report/linkedin-learning-free-learning-paths/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/index29c3.html
+05:32:51	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=58243
+05:32:51	Warning: 	File has moved from https://www.classcentral.com/report/?p=58243 to https://www.classcentral.com/report/writing-free-online-courses/
+05:32:51	Warning: 	Warning: store text/html without scan: C:/Users/nicolas/Desktop/prueba/prueba/www.classcentral.com/report/indexbd64.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 hours 11 minutes 34 seconds : 4333 links scanned, 4272 files written (522326935 bytes overall), 2603 files updated [192418541 bytes received at 4775 bytes/sec], 313997168 bytes transferred using HTTP compression in 563 files, ratio 13%, 2.4 requests per connection
+(18 errors, 318 warnings, 0 messages)
